@@ -1,0 +1,115 @@
+body {
+    background-color: #343C56;
+}
+
+.box1 {
+    background-color: red;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin: 50px 10px;
+    padding-top:10px ;
+}
+.box2 {
+    background-color: red;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin: 50px 10px;
+    padding-top:10px ;
+}
+.box3 {
+    background-color: red;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin: 50px 10px;
+    padding-top:10px ;
+}
+.box4 {
+    background-color: red;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin: 50px 10px;
+    padding-top:10px ;
+}
+.row1 {
+    display: flex;
+    gap: 80px;
+    margin-left: 70px;
+}
+
+.row2 {
+    img {
+        width: 450px;
+        margin-left: 75px;
+        border: 2px solid red;
+    }
+    iframe {
+        width: 450px;
+        margin-left: 205px;
+        height: 275px;
+    }
+    display: flex;
+}
+
+.row3 {
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    border-radius: 25px;
+    margin-left: 530px;
+    margin-top: 20px;
+}
+
+.row4 {
+    display: flex;
+    gap: 300px;
+    text-align: center;
+    margin-left: 80px;
+}
+
+
+.box5 {
+    padding: 30px;
+}
+
+.card {
+width: 400px;
+height: 200px;
+background-color: #EB1616;
+border-radius: 50px;
+}
+.card2 {
+    width: 400px;
+    height: 200px;
+    background-color: #EB1616;
+    border-radius: 50px;
+}
+.box6 {
+    width: 300px;
+    height: 109px;
+    background-color: #61FF00;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-top: 30px;
+}    
+.box7 {
+    width: 300px;
+    height: 109px;
+    background-color: #61FF00;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-top: 30px;
+}
